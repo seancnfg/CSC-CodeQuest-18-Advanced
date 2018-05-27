@@ -1,3 +1,4 @@
+#Code still needs work
 inp = open('Prob03.in.txt', 'r')
 
 t = int(inp.readline())
